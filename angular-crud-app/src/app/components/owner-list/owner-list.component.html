@@ -1,0 +1,22 @@
+<table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Date of Birth</th>
+        <th>Address</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let owner of owners">
+        <td>{{ owner.name }}</td>
+        <td>{{ owner.dateOfBirth | date }}</td>
+        <td>{{ owner.address }}</td>
+        <td>
+          <button [routerLink]="['/edit', owner.id]">Edit</button>
+          <button (click)="deleteOwner(owner.id)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <button routerLink="/add">Add New Owner</button>

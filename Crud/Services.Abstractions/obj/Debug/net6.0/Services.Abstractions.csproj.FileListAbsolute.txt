@@ -1,0 +1,15 @@
+C:\Study\LuftBorn\Crud\Services.Abstractions\bin\Debug\net6.0\Services.Abstractions.deps.json
+C:\Study\LuftBorn\Crud\Services.Abstractions\bin\Debug\net6.0\Services.Abstractions.dll
+C:\Study\LuftBorn\Crud\Services.Abstractions\bin\Debug\net6.0\Services.Abstractions.pdb
+C:\Study\LuftBorn\Crud\Services.Abstractions\bin\Debug\net6.0\Contracts.dll
+C:\Study\LuftBorn\Crud\Services.Abstractions\bin\Debug\net6.0\Contracts.pdb
+C:\Study\LuftBorn\Crud\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.csproj.AssemblyReference.cache
+C:\Study\LuftBorn\Crud\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\LuftBorn\Crud\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.AssemblyInfoInputs.cache
+C:\Study\LuftBorn\Crud\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.AssemblyInfo.cs
+C:\Study\LuftBorn\Crud\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+C:\Study\LuftBorn\Crud\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.csproj.CopyComplete
+C:\Study\LuftBorn\Crud\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.dll
+C:\Study\LuftBorn\Crud\Services.Abstractions\obj\Debug\net6.0\refint\Services.Abstractions.dll
+C:\Study\LuftBorn\Crud\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.pdb
+C:\Study\LuftBorn\Crud\Services.Abstractions\obj\Debug\net6.0\ref\Services.Abstractions.dll

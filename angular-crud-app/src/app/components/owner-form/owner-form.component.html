@@ -1,0 +1,20 @@
+
+<div class="form-container">
+    <h2>{{ isEditMode ? 'Edit Owner' : 'Add New Owner' }}</h2>
+    <form [formGroup]="ownerForm" (ngSubmit)="onSubmit()">
+      <label>
+        Name:
+        <input formControlName="name" type="text" required />
+      </label>
+      <label>
+        Date of Birth:
+        <input formControlName="dateOfBirth" type="date" required />
+      </label>
+      <label>
+        Address:
+        <input formControlName="address" type="text" required />
+      </label>
+      <button type="submit">{{ isEditMode ? 'Update Owner' : 'Create Owner' }}</button>
+      <button type="button" routerLink="/">Cancel</button>
+    </form>
+  </div>

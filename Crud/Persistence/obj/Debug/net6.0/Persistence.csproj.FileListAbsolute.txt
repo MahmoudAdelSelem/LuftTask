@@ -1,0 +1,15 @@
+C:\Study\LuftBorn\Crud\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Study\LuftBorn\Crud\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\LuftBorn\Crud\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Study\LuftBorn\Crud\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Study\LuftBorn\Crud\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Study\LuftBorn\Crud\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Study\LuftBorn\Crud\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Study\LuftBorn\Crud\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Study\LuftBorn\Crud\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Study\LuftBorn\Crud\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Study\LuftBorn\Crud\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Study\LuftBorn\Crud\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Study\LuftBorn\Crud\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Study\LuftBorn\Crud\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Study\LuftBorn\Crud\Persistence\obj\Debug\net6.0\ref\Persistence.dll

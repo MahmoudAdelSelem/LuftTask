@@ -1,0 +1,17 @@
+C:\Study\LuftBorn\Crud\Presentation\bin\Debug\net6.0\Presentation.deps.json
+C:\Study\LuftBorn\Crud\Presentation\bin\Debug\net6.0\Presentation.dll
+C:\Study\LuftBorn\Crud\Presentation\bin\Debug\net6.0\Presentation.pdb
+C:\Study\LuftBorn\Crud\Presentation\bin\Debug\net6.0\Contracts.dll
+C:\Study\LuftBorn\Crud\Presentation\bin\Debug\net6.0\Services.Abstractions.dll
+C:\Study\LuftBorn\Crud\Presentation\bin\Debug\net6.0\Services.Abstractions.pdb
+C:\Study\LuftBorn\Crud\Presentation\bin\Debug\net6.0\Contracts.pdb
+C:\Study\LuftBorn\Crud\Presentation\obj\Debug\net6.0\Presentation.csproj.AssemblyReference.cache
+C:\Study\LuftBorn\Crud\Presentation\obj\Debug\net6.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\LuftBorn\Crud\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfoInputs.cache
+C:\Study\LuftBorn\Crud\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfo.cs
+C:\Study\LuftBorn\Crud\Presentation\obj\Debug\net6.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Study\LuftBorn\Crud\Presentation\obj\Debug\net6.0\Presentation.csproj.CopyComplete
+C:\Study\LuftBorn\Crud\Presentation\obj\Debug\net6.0\Presentation.dll
+C:\Study\LuftBorn\Crud\Presentation\obj\Debug\net6.0\refint\Presentation.dll
+C:\Study\LuftBorn\Crud\Presentation\obj\Debug\net6.0\Presentation.pdb
+C:\Study\LuftBorn\Crud\Presentation\obj\Debug\net6.0\ref\Presentation.dll
